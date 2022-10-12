@@ -1,5 +1,7 @@
 # Inbox
 
+## Quick Links
+[[todo]] | [[readme]] | [[write-notes-in-foam]]
 - Here you can write disorganised notes to be categorised later
 - Bullet points are useful, but it could be free form text as well
 - Sometimes it's better to just get things off your mind quickly, rather than stop to think where it belongs
